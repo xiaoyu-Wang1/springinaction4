@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ThinkingInJava:war">
+    <output-path>$PROJECT_DIR$/ThinkingInJava/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>ThinkingInJava</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="ThinkingInJava.war">
+      <element id="artifact" artifact-name="ThinkingInJava:war exploded" />
+    </root>
+  </artifact>
+</component>

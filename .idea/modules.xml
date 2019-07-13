@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Sword/Sword.iml" filepath="$PROJECT_DIR$/Sword/Sword.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThinkingInJava/ThinkingInJava.iml" filepath="$PROJECT_DIR$/ThinkingInJava/ThinkingInJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/phantom1/phantom1.iml" filepath="$PROJECT_DIR$/phantom1/phantom1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springinaction4/springinaction4.iml" filepath="$PROJECT_DIR$/springinaction4/springinaction4.iml" />
+    </modules>
+  </component>
+</project>
