@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.qunar.dubbo:dubbo-async-api:3.2.35">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/qunar/dubbo/dubbo-async-api/3.2.35/dubbo-async-api-3.2.35.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/qunar/dubbo/dubbo-async-api/3.2.35/dubbo-async-api-3.2.35-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/qunar/dubbo/dubbo-async-api/3.2.35/dubbo-async-api-3.2.35-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

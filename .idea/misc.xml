@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/mango" />
+    <file type="web" url="file://$PROJECT_DIR$/mybatisdemo" />
     <file type="web" url="file://$PROJECT_DIR$/springinaction4" />
+    <file type="web" url="file://$PROJECT_DIR$/springtest" />
     <file type="web" url="file://$PROJECT_DIR$/Sword" />
     <file type="web" url="file://$PROJECT_DIR$/ThinkingInJava" />
   </component>
@@ -14,8 +17,23 @@
         <option value="$PROJECT_DIR$/Sword/pom.xml" />
         <option value="$PROJECT_DIR$/ThinkingInJava/pom.xml" />
         <option value="$PROJECT_DIR$/phantom1/pom.xml" />
-        <option value="$PROJECT_DIR$/springinaction4/pom.xml" />
+        <option value="$PROJECT_DIR$/springtest/pom.xml" />
+        <option value="$PROJECT_DIR$/bingfabianchengyishu/pom.xml" />
+        <option value="$PROJECT_DIR$/mybatisgenerator/pom.xml" />
+        <option value="$PROJECT_DIR$/mybatisdemo/pom.xml" />
+        <option value="$PROJECT_DIR$/jvm/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo/pom.xml" />
+        <option value="$PROJECT_DIR$/alibaba/pom.xml" />
+        <option value="$PROJECT_DIR$/Java8InAction/pom.xml" />
+        <option value="$PROJECT_DIR$/mango/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-inside/demo-404-401/pom.xml" />
+        <option value="$PROJECT_DIR$/redis-in-action/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/Sword/alibaba/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK" />

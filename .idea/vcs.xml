@@ -2,8 +2,14 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Java8InAction" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Sword" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/ThinkingInJava" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/arthas" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dubbo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mango" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/nodejs_plugin" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/phantom1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spring-boot-inside" vcs="Git" />
   </component>
 </project>
